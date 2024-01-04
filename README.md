@@ -14,7 +14,7 @@ The growth rates correspond to the following distribution depending on the city'
 
 | Scenario category                            | Distribution type                      |
 | -------------------------------------------- | -------------------------------------- |
-| Ongoing closure - mild growth                | $R\sim N(\mu=50\%,\sigma=20\%)$      |
+| Ongoing closure - mild growth                | $R\sim N(\mu=50%,\sigma=20%)$        |
 | Ongoing embargo - moderate growth            | $R\sim N(\mu=100\%,\sigma=40\%)$     |
 | Continuation of the embargo - serious growth | $R\sim N(\mu=150\%,\sigma=60\%)$     |
 | Immediate liberalisation - rapid growth      | $R\sim LN(\mu=\log200\%,\sigma=0.3)$ |
